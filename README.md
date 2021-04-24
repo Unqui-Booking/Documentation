@@ -19,3 +19,4 @@ A su vez, los estudiantes también podrán ver sus propias reservas y cancelarla
 
 ### Stack Tecnológico
 
+<img align="center" src="/stack.png" alt="stack"/>
