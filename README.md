@@ -25,4 +25,21 @@ A su vez, los estudiantes también podrán ver sus propias reservas y cancelarla
 
 ### Arquitectura
 
-<img align="center" src="/mvc.png" alt="mvc"/>
+<p align="center">
+ <img src="/mvc.png" alt="mvc"/>
+ </p>
+
+**********************************************************************************************************************************
+
+### Licencia: [GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+**********************************************************************************************************************************
+
+### Backlog: [Ir a trello](https://trello.com/b/VmADg9jL/unqui-booking)
+
+**********************************************************************************************************************************
+
+### Repositorios de código:
+- [Frontend](https://github.com/Unqui-Booking/Frontend)
+- [Backend](https://github.com/Unqui-Booking/Backend)
+
