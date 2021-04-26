@@ -14,20 +14,6 @@ Todas las reservas serán gestionadas por un personal administrativo el cual tam
   - Multar a un estudiante: un estudiante será multado si no confirma a tiempo su reserva y no podrá reservar por siete días
 
 A su vez, los estudiantes también podrán ver sus propias reservas y cancelarlas a tiempo.
-      
-***
-
-### Stack Tecnológico
-
-<img align="center" src="/stack.png" alt="stack"/>
-
-***
-
-### Arquitectura
-
-<p align="center">
- <img src="/mvc.png" alt="mvc"/>
- </p>
 
 ***
 
