@@ -17,7 +17,7 @@ A su vez, los estudiantes también podrán ver sus propias reservas y cancelarla
 
 ***
 ### Detalles técnicos: 
-- [stack tecnológico y arquitectura](https://github.com/Unqui-Booking/Documentation/wiki/Detalles-t%C3%A9cnicos)
+- [Stack tecnológico y arquitectura](https://github.com/Unqui-Booking/Documentation/wiki/Detalles-t%C3%A9cnicos)
 
 ***
 
