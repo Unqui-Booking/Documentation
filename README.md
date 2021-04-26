@@ -16,12 +16,18 @@ Todas las reservas serán gestionadas por un personal administrativo el cual tam
 A su vez, los estudiantes también podrán ver sus propias reservas y cancelarlas a tiempo.
 
 ***
-
-### Licencia: [GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
+### Detalles técnicos: 
+- [stack tecnológico y arquitectura](https://github.com/Unqui-Booking/Documentation/wiki/Detalles-t%C3%A9cnicos)
 
 ***
 
-### Backlog: [Ir a trello](https://trello.com/b/VmADg9jL/unqui-booking)
+### Licencia: 
+- [GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+***
+
+### Backlog: 
+- [Ver dashboard](https://trello.com/b/VmADg9jL/unqui-booking)
 
 ***
 
