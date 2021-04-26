@@ -15,13 +15,13 @@ Todas las reservas serán gestionadas por un personal administrativo el cual tam
 
 A su vez, los estudiantes también podrán ver sus propias reservas y cancelarlas a tiempo.
       
-**********************************************************************************************************************************
+***
 
 ### Stack Tecnológico
 
 <img align="center" src="/stack.png" alt="stack"/>
 
-**********************************************************************************************************************************
+***
 
 ### Arquitectura
 
@@ -29,17 +29,25 @@ A su vez, los estudiantes también podrán ver sus propias reservas y cancelarla
  <img src="/mvc.png" alt="mvc"/>
  </p>
 
-**********************************************************************************************************************************
+***
 
 ### Licencia: [GPLv3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
-**********************************************************************************************************************************
+***
 
 ### Backlog: [Ir a trello](https://trello.com/b/VmADg9jL/unqui-booking)
 
-**********************************************************************************************************************************
+***
 
 ### Repositorios de código:
 - [Frontend](https://github.com/Unqui-Booking/Frontend)
 - [Backend](https://github.com/Unqui-Booking/Backend)
 
+***
+
+###  Entregables:
+- [Prueba de Concepto](https://github.com/Unqui-Booking/Documentation/wiki/Prueba-de-Concepto)
+- [Entrega 1](https://github.com/Unqui-Booking/Documentation/wiki/Entrega-1)
+- [Entrega 2](https://github.com/Unqui-Booking/Documentation/wiki/Entrega-2)
+- [Entrega 3](https://github.com/Unqui-Booking/Documentation/wiki/Entrega-3)
+- [Entrega 4](https://github.com/Unqui-Booking/Documentation/wiki/Entrega-4)
