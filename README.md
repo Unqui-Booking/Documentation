@@ -45,3 +45,4 @@ A su vez, los estudiantes también podrán ver sus propias reservas y cancelarla
 - [Entrega 2](https://github.com/Unqui-Booking/Documentation/wiki/Entrega-2)
 - [Entrega 3](https://github.com/Unqui-Booking/Documentation/wiki/Entrega-3)
 - [Entrega 4](https://github.com/Unqui-Booking/Documentation/wiki/Entrega-4)
+- [Presentación final](https://github.com/Unqui-Booking/Documentation/blob/main/PresentacionFinal.pdf)
